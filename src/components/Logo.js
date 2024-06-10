@@ -1,6 +1,8 @@
 import Link from "next/link";
 import React from "react";
 import { motion } from "framer-motion";
+import Image from "next/image";
+import LogoMain from "../../public/images/profile/Logo.png";
 
 const MotionLink = motion(Link);
 
@@ -23,7 +25,7 @@ const Logo = () => {
           transition: { duration: 1, repeat: Infinity },
         }}
       >
-        SB
+        <Image src={LogoMain} alt="SB" width={40} height={40} />
       </MotionLink>
     </div>
   );

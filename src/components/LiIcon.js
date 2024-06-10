@@ -7,10 +7,15 @@ const LiIcon = ({ reference }) => {
     offset: ["center end", "center center"],
   });
   return (
-    <figure className="absolute left-0 stroke-dark">
-      <svg className="-rotate-90" width="75" height="75" viewBox="0 0 100 100">
+    <figure className="absolute left-0 stroke-dark xs:left-[-15px]">
+      <svg
+        className="-rotate-90 md:w-[60] md:h-[60px] xs:w-[40] xs:h-[40px]"
+        width="75"
+        height="75"
+        viewBox="0 0 100 100"
+      >
         <circle
-          className="stroke-primary stroke-1 fill-none"
+          className="stroke-primary stroke-1 fill-none dark:stroke-primaryDark"
           cx="75"
           cy="50"
           r="20"
@@ -23,7 +28,7 @@ const LiIcon = ({ reference }) => {
           r="20"
         />
         <circle
-          className="animate-pulse stroke-1 fill-primary"
+          className="animate-pulse stroke-1 fill-primary dark:fill-primaryDark"
           cx="75"
           cy="50"
           r="10"
