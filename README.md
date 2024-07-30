@@ -1,42 +1,105 @@
-# Next.Js Website Tutorial: Create a Stunning Portfolio Website with Nextjs, Tailwind CSS and Framer-motion🌟
+<a name="top"></a>
 
-![GitHub stars](https://img.shields.io/github/stars/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=ApacheSpark&label=Stars)&nbsp;&nbsp;
-![GitHub forks](https://img.shields.io/github/forks/codebucks27/Next.js-Developer-Portfolio-Starter-Code?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
-![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
+# Wsite - The Personal App
 
-This repository contains starter code for Portfolio website created using NextJs. <br />
+## Badges
 
-For Demo and Final Code checkout following link👇: <br />
-[Nextjs Portfolio Website](https://devdreaming.com//videos/nextjs-tutorial-build-portfolio-tailwind-css-framer-motion#code-links) <br />
+![Test](https://img.shields.io/badge/Test-passing-brightgreen)
+![Build](https://img.shields.io/badge/Build-passing-brightgreen)
+![CI](https://img.shields.io/badge/CI-passing-brightgreen?logo=github)
 
-If you want to learn how to create it please follow below tutorial👇: <br />
-https://youtu.be/Yw7yWHigGKI <br />
-[![YouTube Video Views](https://img.shields.io/youtube/views/Yw7yWHigGKI?style=social)](https://youtu.be/Yw7yWHigGKI)<br />
+![Contrib](https://img.shields.io/badge/Contrib-267-blue)
+![Codecov](https://img.shields.io/badge/CodeCov-88%25-blue)
+![PullReq](https://img.shields.io/badge/PullReq-171%20open-blue)
 
-### Images of The Portfolio Website:
+![Stars](https://img.shields.io/github/stars/Simobara/wsite?style=social)
+![Forks](https://img.shields.io/github/forks/Simobara/wsite?style=social)
 
-![Nextjs Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-light-desktop.png)
-![Nextjs Portfolio Website Dark Mode](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/home-dark-desktop.png)
-![Next.js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-desktop.png)
-![Next js Portfolio Website](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-dark-desktop.png)
-![Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-desktop.png)
-![Responsive Portfolio Website In Nextjs](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/about-light-mobile.png)
-![Responsive Portfolio Website In Next js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/projects-light-mobile.png)
-![Mobile Responsive Portfolio Website In Next.js](https://github.com/codebucks27/Next.js-Developer-Portfolio-Starter-Code/blob/main/website%20images/articles-light-mobile.png)
+## Demo
 
+![Finished App](wsite.jpg)
 
-### Resources Used in This Project
+---
 
-- Profile image in the home page created by using https://www.midjourney.com/ tool.
-- Profile image in the about page by [Albert Dera](https://unsplash.com/@albertdera?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) 
-on [Unsplash](https://unsplash.com/photos/ILip77SbmOE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).
-- Fonts from https://fonts.google.com/ <br />
-- Icons from https://iconify.design/ <br />
-- LightBulb Svg from https://lukaszadam.com/illustrations <br />
+## Tech Stack
 
-### External Libraries used in this project:
+### Frontend
 
-- [framer-motion](https://www.framer.com/motion/) <br />
-- [Tailwind css](https://tailwindcss.com/) <br />
+- React/Next
+- Vite
+- TailwindCSS
 
+### Backend
 
+- Node.js
+- Express
+- Nodemailer
+- dotenv
+
+### Deployment
+
+- Vercel
+
+### Altri Strumenti
+
+- Axios
+- CORS
+- Body-Parser
+
+## Getting Started
+
+## Prerequisites
+
+  ```sh
+  **Node.js**: Scarica e installa Node.js da [nodejs.org](https://nodejs.org/). Verifica l'installazione con:
+    node -v
+    npm -v
+    git -v
+  ```
+
+## Installation
+
+```sh
+  git clone https://github.com/Simobara/progMywebsite.git
+  cd wsite
+  npm install
+  npm run dev
+```
+
+## Dependencies
+
+<details >
+<a name="top1"></a>
+   <summary> Click </summary>
+
+```sh
+developer-portfolio-starter-code@0.1.0
+├── ajv@8.16.0
+├── autoprefixer@10.4.19
+├── eslint-config-next@14.2.3
+├── eslint@8.57.0
+├── framer-motion@10.18.0
+├── next@14.2.3
+├── node-fetch@3.3.2
+├── postcss@8.4.38
+├── react-dom@18.2.0
+├── react@18.2.0
+├── tailwindcss@3.4.4
+└── uri-js@4.4.1
+```
+
+[⤴️ top1](#top1)
+</details>
+
+## License
+
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
+
+## Link
+
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin) - [click here](https://www.linkedin.com/in/siba2410)
+- ![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?style=social&logo=github) - [click here](https://github.com/Simobara)
+- ![YouTube](https://img.shields.io/youtube/views/dQw4w9WgXcQ?style=social) - [click here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[⤴️ top](#top)
